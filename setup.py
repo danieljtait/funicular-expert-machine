@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name='univarfem',
+    name='funicularexpertmachine',
     version='0.0.2',
     author='Daniel Tait',
     author_email='tait.djk@gmail.com',
